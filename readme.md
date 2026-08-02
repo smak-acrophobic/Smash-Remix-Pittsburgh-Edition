@@ -4,7 +4,7 @@ Pittsburgh Edition is for use in the Smash Remix tournament scene in Pittsburgh,
 
 # Rules
 
-<img width="1920" height="1080" alt="Smash Remix Stagelist" src= "readme/Remix Season 2 Stagelist.png" />
+<img width="1920" height="1080" alt="Smash Remix Stagelist" src="readme/Remix Season 2 Stagelist.png" />
 
 ## Game Rules
 - 4 stock
