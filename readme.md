@@ -1,3 +1,69 @@
+# Smash Remix: Pittsburgh Edition
+
+Pittsburgh Edition is for use in the Smash Remix tournament scene in Pittsburgh, PA. 
+
+# Rules
+
+<img width="1920" height="1080" alt="Smash Remix Stagelist" src= "readme/Remix Season 2 Stagelist.png" />
+
+## Game Rules
+- 4 stock
+- 8 minutes
+- Community Profile (default settings have been changed)
+
+## Legal Characters
+- All Main CSS Characters
+- Dark Samus
+- Lucas
+- Peppy
+- Slippy
+- Roy
+- Dr. Luigi
+- Lanky Kong
+
+## Banned Characters
+- Dragon King
+- Ebisumaru
+- Mad Piano
+- All JP and EU Regional Variants
+- All Bosses
+- All Poly Fighters
+
+## Stages
+Starters:
+- Dreamland
+- Goomba Road
+- Pokemon Stadium
+- Glacial River Remix
+Counter-picks:
+- Gym Leader Castle
+- WarioWare, Inc.
+- Smashville
+
+ ## Stage Banning
+- Game 1:
+  - Both players choose characters blindly
+  - RPS to decide who bans first
+  - Winner bans 1 stage
+  - Loser bans 1 stage
+  - Winner chooses between the last 2 starter stages available
+
+- Games after Game 1:
+  - Winner of the last game bans 2 stages
+  - Loser picks any of the remaining stages remain
+  - MDSR is in play (cannot choose the most recent stage you won on in the set)
+
+
+# Changes from Smash Remix Debugged
+
+- Stage Select Screen is changed to have the stage list natively
+- Random is set for the stage list
+- Hold to Pause is on by Default
+- Menu Music is set to Random
+- Pkmn Announcer is turned off
+- Some Stage Music in the stage list has been altered to play additional songs
+
+
 # Smash Remix Debugged
 
 *A Smash Remix Mod Made by Brob2nd*
